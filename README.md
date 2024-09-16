@@ -4,8 +4,7 @@ This is part of https://coderefinery.github.io/reproducible-python/.
 
 
 ## Purpose
-
-(...)
+The purpose of this example is to learn version control in Git.
 
 
 ## Requirements
@@ -79,7 +78,8 @@ $ python animate.py --initial-file initial.csv \
 
 ## Authors and recommended citation
 
-(...)
+Radovan Bast
+Luka Plavec
 
 
 ## License
