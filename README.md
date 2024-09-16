@@ -16,6 +16,7 @@ miniconda
 ## Installation instructions
 
 (...)
+Install miniconda
 
 
 ## Example
