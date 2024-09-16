@@ -11,7 +11,7 @@ This is part of https://coderefinery.github.io/reproducible-python/.
 ## Requirements
 
 (dependencies and their versions or version ranges)
-
+miniconda
 
 ## Installation instructions
 
