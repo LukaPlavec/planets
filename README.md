@@ -78,7 +78,8 @@ $ python animate.py --initial-file initial.csv \
 
 ## Authors and recommended citation
 
-(...)
+Radovan Bast
+Luka Plavec
 
 
 ## License
